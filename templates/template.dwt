@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/coffee.css" rel="stylesheet" type="text/css">
+
+</head>
+	
+<body>
+<section id="wrapper">
+  <header id="header">
+
+	
+<a href="#"><img src="../images/cindybanner.png" alt="" width="1204" height="355" usemap="#Map"/>
+    <map name="Map">
+      <area shape="rect" coords="64,57,445,191" href="#">
+    </map>
+</a>
+
+  </header>
+	
+<nav id="navigation">
+  
+		<a href="../index.html">Home</a>
+		<a href="../about.html">About</a>
+		<a href="../menu.html">Menu</a>
+		<a href="../jobs.html">Jobs</a></nav>
+	
+
+  <main id="main">
+	  
+   <!-- TemplateBeginEditable name="Content" -->
+    <h1>Home</h1>
+    <h4 style="">Home of Cindy's Coffee Shop </h4>
+    <p style="">Their coffee is  so delectible. 4 Stars- New York Times <img src="../images/stars4.png" width="195" height="51" alt=""/></p>
+    <p style="">I would drive a hour everyday before work to get their coffee. 5 Stars - Coffee Report <img src="../images/stars5.png" width="190" height="42" alt=""/></p>
+	  <hr>
+    <p>Cindy's Coffee offers all customers Coffee and Treats for low and affordable prices. Cindy's Coffee contributes to the community by donating 25% of all sales to non-profit orginizations like the American Diabetes Association (ADA) and the Doyletown Health Orginization.</p>
+    <hr>
+    <p style="">Call <a href="2154444444" target="_parent">(215) 444 4444</a> to order Coffee or Treats </p>
+    <p style="">&nbsp;</p>
+    <p style="">&nbsp;</p>
+   <!-- TemplateEndEditable -->
+	
+	</main>
+ 
+
+  <footer id="footer">
+    <p><a href="template.dwt" target="new">Home</a>| Cindy@icloud.com| 12345 Coffee St, Doyletown PA	  </p>
+    <p>Copyright © 2026 Cindy's Coffee, all rights reserved.</p>
+</footer>
+	
+	
+</section>	
+</body>
+</html>

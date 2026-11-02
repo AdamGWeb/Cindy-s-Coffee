@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+    background-color: #E8E2D8;
+    text-align: left;
+}
+
+#wrapper {
+    background-color: #fff;
+    margin: auto;
+    width: 1200px;
+    border: 2px solid #000000;
+}
+
+#navigation {
+    background-color: #90EE90;
+    height: 35px;
+    text-align: center;
+    padding-top: 20px;
+}
+#navigation a:link {
+    border-radius: 26px;
+}
+
+#header {
+    background-color: #e8e2d8;
+}
+#main {
+    padding: 10px;
+}
+#footer {
+    background-color: #e8e2d8;
+    text-align: center;
+    padding: 10px;
+    height: 85px;
+}
+
+#navigation a:link {
+    background-color: #FAFAFA;
+    padding: 10px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: italic;
+    color: #000000;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+		
+}
+
+.center-page {
+    min-height: 100vh; 
+  margin: 0;
+    display: grid;
+  place-items: center; 
+    text-align: center; 
+}
+
+
+.row-container {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.center-text {
+    text-align: center;
+    flex: 1;
+    padding: 0 20px;
+    font-size: 24px;
+}
+
+
+.side img {
+    width: 150px;
+    height: auto;
+}
